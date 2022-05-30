@@ -19,6 +19,7 @@
     position: relative;
     top: 27%;
     z-index: 100;
+    
   }
   .clock-border{
     width: 100%;
@@ -41,15 +42,15 @@
     
   }
   .circle{
-    width: 17px;
-    height: 17px;
-    background: #fff;
+    width: 20px;
+    height: 20px;
+    background: #000;
     border-radius: 50%;
     position: absolute;
     display: block;
     top: 138px;
     left: 142px;
-    border: 2px solid #ccc;
+    border: 2px solid #033;
     
     box-shadow: 0px 2px 44px 12px #000;
   }
