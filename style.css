@@ -57,6 +57,7 @@
   
   .hand-hour{
     width: 30%;
+    height: 8px;
     margin-left: 70px;
     background-color: #003;
   }
@@ -65,6 +66,7 @@
   }
   .hand-minutes{
     background-color: green;
+    height: 6px;
   }
   .towelve{
     position: relative;
